@@ -1,0 +1,205 @@
+{
+    "questions": {
+      "1": {
+        "question": "What is the capital of Canada?",
+        "options": {
+          "a": "Toronto",
+          "b": "Ottawa",
+          "c": "Montreal",
+          "d": "Vancouver"
+        },
+        "answer": "b"
+      },
+      "2": {
+        "question": "Who is the author of 'Pride and Prejudice'?",
+        "options": {
+          "a": "Jane Austen",
+          "b": "Charles Dickens",
+          "c": "Emily Bronte",
+          "d": "Charlotte Bronte"
+        },
+        "answer": "a"
+      },
+      "3": {
+        "question": "Which of the following is not a primary color?",
+        "options": {
+          "a": "Red",
+          "b": "Yellow",
+          "c": "Green",
+          "d": "Blue"
+        },
+        "answer": "c"
+      },
+      "4": {
+        "question": "What is the chemical symbol for silver?",
+        "options": {
+          "a": "Ag",
+          "b": "Si",
+          "c": "Sr",
+          "d": "Sl"
+        },
+        "answer": "a"
+      },
+      "5": {
+        "question": "Who composed the 'Moonlight Sonata'?",
+        "options": {
+          "a": "Mozart",
+          "b": "Beethoven",
+          "c": "Bach",
+          "d": "Chopin"
+        },
+        "answer": "b"
+      },
+      "6": {
+        "question": "What is the largest organ in the human body?",
+        "options": {
+          "a": "Liver",
+          "b": "Brain",
+          "c": "Skin",
+          "d": "Heart"
+        },
+        "answer": "c"
+      },
+      "7": {
+        "question": "Who painted 'The Starry Night'?",
+        "options": {
+          "a": "Pablo Picasso",
+          "b": "Vincent van Gogh",
+          "c": "Leonardo da Vinci",
+          "d": "Claude Monet"
+        },
+        "answer": "b"
+      },
+      "8": {
+        "question": "What is the chemical symbol for sodium?",
+        "options": {
+          "a": "So",
+          "b": "Sd",
+          "c": "Na",
+          "d": "No"
+        },
+        "answer": "c"
+      },
+      "9": {
+        "question": "Who wrote '1984'?",
+        "options": {
+          "a": "George Orwell",
+          "b": "Aldous Huxley",
+          "c": "Ray Bradbury",
+          "d": "F. Scott Fitzgerald"
+        },
+        "answer": "a"
+      },
+      "10": {
+        "question": "What is the chemical symbol for potassium?",
+        "options": {
+          "a": "Kt",
+          "b": "Po",
+          "c": "P",
+          "d": "K"
+        },
+        "answer": "d"
+      },
+      "11": {
+        "question": "Who is the Greek god of war?",
+        "options": {
+          "a": "Ares",
+          "b": "Zeus",
+          "c": "Poseidon",
+          "d": "Hades"
+        },
+        "answer": "a"
+      },
+      "12": {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": {
+          "a": "China",
+          "b": "Japan",
+          "c": "India",
+          "d": "South Korea"
+        },
+        "answer": "b"
+      },
+      "13": {
+        "question": "Who developed the theory of relativity?",
+        "options": {
+          "a": "Isaac Newton",
+          "b": "Albert Einstein",
+          "c": "Galileo Galilei",
+          "d": "Stephen Hawking"
+        },
+        "answer": "b"
+      },
+      "14": {
+        "question": "What is the chemical symbol for carbon?",
+        "options": {
+          "a": "C",
+          "b": "Ca",
+          "c": "Cr",
+          "d": "Co"
+        },
+        "answer": "a"
+      },
+      "15": {
+        "question": "Who is the author of 'The Catcher in the Rye'?",
+        "options": {
+          "a": "J.D. Salinger",
+          "b": "F. Scott Fitzgerald",
+          "c": "Ernest Hemingway",
+          "d": "Mark Twain"
+        },
+        "answer": "a"
+      },
+      "16": {
+        "question": "What is the longest river in the world?",
+        "options": {
+          "a": "Amazon",
+          "b": "Nile",
+          "c": "Mississippi",
+          "d": "Yangtze"
+        },
+        "answer": "b"
+      },
+      "17": {
+        "question": "Who wrote 'The Great Gatsby'?",
+        "options": {
+          "a": "F. Scott Fitzgerald",
+          "b": "Ernest Hemingway",
+          "c": "Mark Twain",
+          "d": "J.D. Salinger"
+        },
+        "answer": "a"
+      },
+      "18": {
+        "question": "What is the chemical symbol for iron?",
+        "options": {
+          "a": "Ir",
+          "b": "Fe",
+          "c": "Fr",
+          "d": "In"
+        },
+        "answer": "b"
+      },
+      "19": {
+        "question": "Who painted 'The Last Supper'?",
+        "options": {
+          "a": "Leonardo da Vinci",
+          "b": "Michelangelo",
+          "c": "Raphael",
+          "d": "Vincent van Gogh"
+        },
+        "answer": "a"
+      },
+      "20": {
+        "question": "What is the chemical symbol for calcium?",
+        "options": {
+          "a": "Cl",
+          "b": "Ca",
+          "c": "Cu",
+          "d": "Cm"
+        },
+        "answer": "b"
+      }
+    }
+  }
+  

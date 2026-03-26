@@ -1,0 +1,204 @@
+{
+    "questions": {
+      "1": {
+        "question": "Algebra: Solve for x: 3/4*x + 5 = 7.",
+        "options": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "answer": "a"
+      },
+      "2": {
+        "question": "Trigonometry: What is the value of sin(30°)?",
+        "options": {
+          "a": "0.5",
+          "b": "0.866",
+          "c": "1",
+          "d": "0"
+        },
+        "answer": "a"
+      },
+      "3": {
+        "question": "Number Systems: Which of the following is an irrational number?",
+        "options": {
+          "a": "√9",
+          "b": "22/7",
+          "c": "3.14",
+          "d": "0.75"
+        },
+        "answer": "a"
+      },
+      "4": {
+        "question": "Sets, Functions, and Groups: If A = {1, 2, 3} and B = {2, 3, 4}, what is A ∩ B?",
+        "options": {
+          "a": "{1, 2, 3, 4}",
+          "b": "{2, 3}",
+          "c": "{1, 4}",
+          "d": "{3}"
+        },
+        "answer": "b"
+      },
+      "5": {
+        "question": "Sequence & Series: Find the sum of the first 10 terms of the arithmetic progression: 2, 5, 8, ...",
+        "options": {
+          "a": "135",
+          "b": "140",
+          "c": "145",
+          "d": "150"
+        },
+        "answer": "a"
+      },
+      "6": {
+        "question": "Real Numbers: Which of the following is a rational number?",
+        "options": {
+          "a": "√2",
+          "b": "5/3",
+          "c": "π",
+          "d": "√7"
+        },
+        "answer": "b"
+      },
+      "7": {
+        "question": "Polynomials: What is the degree of the polynomial 3x^4 - 2x^3 + 5x^2 - 7x + 1?",
+        "options": {
+          "a": "4",
+          "b": "3",
+          "c": "2",
+          "d": "1"
+        },
+        "answer": "a"
+      },
+      "8": {
+        "question": "Quadratic Equations: Solve for x: x^2 - 5x + 6 = 0.",
+        "options": {
+          "a": "2, 3",
+          "b": "3, 2",
+          "c": "1, 6",
+          "d": "6, 1"
+        },
+        "answer": "a"
+      },
+      "9": {
+        "question": "Arithmetic Progression: If the sum of the first n terms of an AP is S_n = 3n^2 + 2n, find the common difference.",
+        "options": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "answer": "b"
+      },
+      "10": {
+        "question": "Triangles: In a right triangle, if the hypotenuse is 10 cm and one leg is 6 cm, what is the length of the other leg?",
+        "options": {
+          "a": "8 cm",
+          "b": "9 cm",
+          "c": "12 cm",
+          "d": "15 cm"
+        },
+        "answer": "c"
+      },
+      "11": {
+        "question": "Algebra: What is the value of x in the equation 3x + 5 = 20?",
+        "options": {
+          "a": "5",
+          "b": "7",
+          "c": "15",
+          "d": "25"
+        },
+        "answer": "b"
+      },
+      "12": {
+        "question": "Number Systems: What is the square root of 64?",
+        "options": {
+          "a": "6",
+          "b": "8",
+          "c": "10",
+          "d": "16"
+        },
+        "answer": "b"
+      },
+      "13": {
+        "question": "Geometry: If a triangle has angles measuring 30°, 60°, and 90°, what type of triangle is it?",
+        "options": {
+          "a": "Equilateral",
+          "b": "Isosceles",
+          "c": "Scalene",
+          "d": "Right angle"
+        },
+        "answer": "d"
+      },
+      "14": {
+        "question": "Number Systems: What is the value of π (pi) rounded to two decimal places?",
+        "options": {
+          "a": "2.70",
+          "b": "3.14",
+          "c": "3.28",
+          "d": "3.50"
+        },
+        "answer": "b"
+      },
+      "15": {
+        "question": "Geometry: What is the sum of angles in a triangle?",
+        "options": {
+          "a": "90°",
+          "b": "180°",
+          "c": "270°",
+          "d": "360°"
+        },
+        "answer": "b"
+      },
+      "16": {
+        "question": "Algebra: What is the result of 5² - 3 × 2?",
+        "options": {
+          "a": "7",
+          "b": "17",
+          "c": "19",
+          "d": "25"
+        },
+        "answer": "b"
+      },
+      "17": {
+        "question": "Geometry: If a rectangle has a length of 8 units and a width of 3 units, what is its area?",
+        "options": {
+          "a": "8 units",
+          "b": "11 units",
+          "c": "15 units",
+          "d": "24 units"
+        },
+        "answer": "d"
+      },
+      "18": {
+        "question": "Algebra: Simplify the expression (4 + 2) × (3 - 1)",
+        "options": {
+          "a": "6",
+          "b": "8",
+          "c": "10",
+          "d": "12"
+        },
+        "answer": "c"
+      },
+      "19": {
+        "question": "Sequence: What is the next number in the sequence: 2, 4, 8, 16, ____",
+        "options": {
+          "a": "24",
+          "b": "32",
+          "c": "48",
+          "d": "64"
+        },
+        "answer": "b"
+      },
+      "20": {
+        "question": "Geometry: If a circle has a radius of 5 units, what is its circumference? (Use π = 3.14)",
+        "options": {
+          "a": "15.7 units",
+          "b": "31.4 units",
+          "c": "47.1 units",
+          "d": "78.5 units"
+        },
+        "answer": "b"
+      }
+   }
+}

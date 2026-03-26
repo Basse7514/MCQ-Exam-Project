@@ -1,0 +1,204 @@
+{
+    "questions": {
+      "1": {
+        "question": "What is the capital of France?",
+        "options": {
+          "a": "London",
+          "b": "Berlin",
+          "c": "Paris",
+          "d": "Rome"
+        },
+        "answer": "c"
+      },
+      "2": {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+          "a": "Jupiter",
+          "b": "Mars",
+          "c": "Venus",
+          "d": "Saturn"
+        },
+        "answer": "b"
+      },
+      "3": {
+        "question": "What is the chemical symbol for water?",
+        "options": {
+          "a": "H2O",
+          "b": "CO2",
+          "c": "NaCl",
+          "d": "C6H12O6"
+        },
+        "answer": "a"
+      },
+      "4": {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": {
+          "a": "J.K. Rowling",
+          "b": "Stephen King",
+          "c": "Harper Lee",
+          "d": "George Orwell"
+        },
+        "answer": "c"
+      },
+      "5": {
+        "question": "What is the largest ocean on Earth?",
+        "options": {
+          "a": "Atlantic Ocean",
+          "b": "Indian Ocean",
+          "c": "Arctic Ocean",
+          "d": "Pacific Ocean"
+        },
+        "answer": "d"
+      },
+      "6": {
+        "question": "What is the capital of Japan?",
+        "options": {
+          "a": "Tokyo",
+          "b": "Beijing",
+          "c": "Seoul",
+          "d": "Osaka"
+        },
+        "answer": "a"
+      },
+      "7": {
+        "question": "Which country is famous for the pyramids?",
+        "options": {
+          "a": "Greece",
+          "b": "Italy",
+          "c": "Egypt",
+          "d": "Mexico"
+        },
+        "answer": "c"
+      },
+      "8": {
+        "question": "What is the currency of the United Kingdom?",
+        "options": {
+          "a": "Dollar",
+          "b": "Euro",
+          "c": "Pound",
+          "d": "Yen"
+        },
+        "answer": "c"
+      },
+      "9": {
+        "question": "Who painted the Mona Lisa?",
+        "options": {
+          "a": "Leonardo da Vinci",
+          "b": "Pablo Picasso",
+          "c": "Vincent van Gogh",
+          "d": "Michelangelo"
+        },
+        "answer": "a"
+      },
+      "10": {
+        "question": "What is the chemical symbol for gold?",
+        "options": {
+          "a": "Au",
+          "b": "Ag",
+          "c": "Fe",
+          "d": "Cu"
+        },
+        "answer": "a"
+      },
+      "11": {
+        "question": "What is the capital of Australia?",
+        "options": {
+          "a": "Sydney",
+          "b": "Melbourne",
+          "c": "Canberra",
+          "d": "Perth"
+        },
+        "answer": "c"
+      },
+      "12": {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": {
+          "a": "William Shakespeare",
+          "b": "Charles Dickens",
+          "c": "Jane Austen",
+          "d": "Mark Twain"
+        },
+        "answer": "a"
+      },
+      "13": {
+        "question": "What is the largest animal on Earth?",
+        "options": {
+          "a": "Blue whale",
+          "b": "Elephant",
+          "c": "Giraffe",
+          "d": "Hippo"
+        },
+        "answer": "a"
+      },
+      "14": {
+        "question": "Which country is famous for the Great Wall?",
+        "options": {
+          "a": "China",
+          "b": "India",
+          "c": "Russia",
+          "d": "Italy"
+        },
+        "answer": "a"
+      },
+      "15": {
+        "question": "Who wrote 'Hamlet'?",
+        "options": {
+          "a": "William Shakespeare",
+          "b": "F. Scott Fitzgerald",
+          "c": "Leo Tolstoy",
+          "d": "Ernest Hemingway"
+        },
+        "answer": "a"
+      },
+      "16": {
+        "question": "What is the plural form of 'child'?",
+        "options": {
+          "a": "childs",
+          "b": "childes",
+          "c": "children",
+          "d": "child’s"
+        },
+        "answer": "c"
+      },
+      "17": {
+        "question": "Identify the abstract noun in the following sentence: 'Honesty is the best policy.'",
+        "options": {
+          "a": "honesty",
+          "b": "best",
+          "c": "policy",
+          "d": "is"
+        },
+        "answer": "a"
+      },
+      "18": {
+        "question": "Choose the correct pronoun to complete the sentence: 'She and _____ are going to the store.'",
+        "options": {
+          "a": "me",
+          "b": "I",
+          "c": "myself",
+          "d": "her"
+        },
+        "answer": "b"
+      },
+      "19": {
+        "question": "Which of the following sentences contains a reflexive pronoun?",
+        "options": {
+          "a": "She gave the book to him.",
+          "b": "He saw himself in the mirror.",
+          "c": "They went to the park.",
+          "d": "I like ice cream."
+        },
+        "answer": "b"
+      },
+      "20": {
+        "question": "Which of the following is a transitive verb?",
+        "options": {
+          "a": "sleep",
+          "b": "run",
+          "c": "eat",
+          "d": "dance"
+        },
+        "answer": "c"
+      }
+    }
+  }    

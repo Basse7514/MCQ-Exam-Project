@@ -1,0 +1,11 @@
+{
+    "doctors": [
+        {
+            "name": "Bassel",
+            "specialty": "injury"
+        }
+    ],
+    "patients": [],
+    "appointments": [],
+    "payments": []
+}

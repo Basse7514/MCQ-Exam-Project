@@ -1,0 +1,205 @@
+{
+  "questions": {
+    "1": {
+      "question": "What is the sum of 130 + 125 + 191?",
+      "options": {
+        "a": "335",
+        "b": "456",
+        "c": "446",
+        "d": "426"
+      },
+      "answer": "c"
+    },
+    "2": {
+      "question": "If we subtract 712 from 1500, how much do we get?",
+      "options": {
+        "a": "788",
+        "b": "778",
+        "c": "768",
+        "d": "758"
+      },
+      "answer": "a"
+    },
+    "3": {
+      "question": "What is 50 times 8 equal to?",
+      "options": {
+        "a": "80",
+        "b": "400",
+        "c": "800",
+        "d": "4000"
+      },
+      "answer": "b"
+    },
+    "4": {
+      "question": "What is 110 divided by 10?",
+      "options": {
+        "a": "11",
+        "b": "10",
+        "c": "5",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    "5": {
+      "question": "Evaluate 20 + (90 ÷ 2).",
+      "options": {
+        "a": "50",
+        "b": "55",
+        "c": "65",
+        "d": "60"
+      },
+      "answer": "c"
+    },
+    "6": {
+      "question": "The product of 82 and 5 is:",
+      "options": {
+        "a": "400",
+        "b": "410",
+        "c": "420",
+        "d": "None of these"
+      },
+      "answer": "b"
+    },
+    "7": {
+      "question": "Find the missing terms in the multiple of 3: 3, 6, 9, __, 15.",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "13"
+      },
+      "answer": "c"
+    },
+    "8": {
+      "question": "Solve 24 ÷ 8 + 2.",
+      "options": {
+        "a": "5",
+        "b": "6",
+        "c": "8",
+        "d": "12"
+      },
+      "answer": "a"
+    },
+    "9": {
+      "question": "Solve: 300 – (150 × 2).",
+      "options": {
+        "a": "150",
+        "b": "100",
+        "c": "50",
+        "d": "0"
+      },
+      "answer": "d"
+    },
+    "10": {
+      "question": "The product of 121 × 0 × 200 × 25 is:",
+      "options": {
+        "a": "1500",
+        "b": "0",
+        "c": "4000",
+        "d": "None of these"
+      },
+      "answer": "b"
+    },
+    "11": {
+      "question": "What is the value of 5 × 7?",
+      "options": {
+        "a": "12",
+        "b": "35",
+        "c": "42",
+        "d": "25"
+      },
+      "answer": "b"
+    },
+    "12": {
+      "question": "If a rectangle has a length of 8 units and a width of 4 units, what is its perimeter?",
+      "options": {
+        "a": "12 units",
+        "b": "16 units",
+        "c": "24 units",
+        "d": "32 units"
+      },
+      "answer": "c"
+    },
+    "13": {
+      "question": "Simplify: (3 + 1/2).",
+      "options": {
+        "a": "1.5",
+        "b": "2",
+        "c": "3.5",
+        "d": "4"
+      },
+      "answer": "c"
+    },
+    "14": {
+      "question": "What is the square root of 64?",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "10",
+        "d": "12"
+      },
+      "answer": "b"
+    },
+    "15": {
+      "question": "If (x = 3) and (y = 5), what is the value of (2x + 3y)?",
+      "options": {
+        "a": "16",
+        "b": "18",
+        "c": "20",
+        "d": "22"
+      },
+      "answer": "d"
+    },
+    "16": {
+      "question": "What is the next number in the sequence: 2, 5, 8, 11, ...?",
+      "options": {
+        "a": "14",
+        "b": "15",
+        "c": "17",
+        "d": "20"
+      },
+      "answer": "a"
+    },
+    "17": {
+      "question": "If (a = 4) and (b = 2), what is the value of (a^2 - b^2)?",
+      "options": {
+        "a": "4",
+        "b": "6",
+        "c": "8",
+        "d": "10"
+      },
+      "answer": "c"
+    },
+    "18": {
+      "question": "What is the sum of the first 10 positive integers?",
+      "options": {
+        "a": "45",
+        "b": "50",
+        "c": "55",
+        "d": "60"
+      },
+      "answer": "b"
+    },
+    "19": {
+      "question": "If (2x - 3 = 9), what is the value of (x)?",
+      "options": {
+        "a": "3",
+        "b": "6",
+        "c": "9",
+        "d": "12"
+      },
+      "answer": "a"
+    },
+    "20": {
+      "question": "What is the area of a square with side length 6 units?",
+      "options": {
+        "a": "12 square units",
+        "b": "18 square units",
+        "c": "24 square units",
+        "d": "36 square units"
+      },
+      "answer": "d"
+    }
+  }
+}
+

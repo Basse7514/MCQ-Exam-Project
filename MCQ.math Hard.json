@@ -1,0 +1,202 @@
+{
+  "questions": {
+    "1": {
+      "question": "What is the area bounded by the curve y = x^2 - 4x + 4 and the x-axis?",
+      "options": {
+        "a": "4",
+        "b": "6",
+        "c": "8",
+        "d": "10"
+      },
+      "answer": "a"
+    },
+    "2": {
+      "question": "What is the sum of 130 + 125 + 191?",
+      "options": {
+        "a": 335,
+        "b": 456,
+        "c": 446,
+        "d": 426
+      },
+      "answer": "c"
+    },
+    "3": {
+      "question": "What is the value of x in the equation 2x^2 - 5x + 3 = 0?",
+      "options": {
+        "a": "x = 1, -3",
+        "b": "x = 2, 6",
+        "c": "x = -1, 3",
+        "d": "x = -2, 2"
+      },
+      "answer": "c"
+    },
+    "4": {
+      "question": "Which of the following is an example of a transcendental number?",
+      "options": {
+        "a": "π (pi)",
+        "b": "√2 (square root of 2)",
+        "c": "e (Euler's number)",
+        "d": "4 (an integer)"
+      },
+      "answer": "a"
+    },
+    "5": {
+      "question": "If f(x) = 3x^2 - 2x + 5, what is f'(x), the derivative of f(x) with respect to x?",
+      "options": {
+        "a": "f'(x) = 6x - 2",
+        "b": "f'(x) = 3x - 2",
+        "c": "f'(x) = 6x + 2",
+        "d": "f'(x) = 6x - 3"
+      },
+      "answer": "d"
+    },
+    "6": {
+      "question": "Solve the inequality: 2x - 5 > 7",
+      "options": {
+        "a": "x > 6",
+        "b": "x < 6",
+        "c": "x > 1",
+        "d": "x < 1"
+      },
+      "answer": "a"
+    },
+    "7": {
+      "question": "If log₄(x) = 2, what is the value of x?",
+      "options": {
+        "a": "x = 4",
+        "b": "x = 16",
+        "c": "x = 8",
+        "d": "x = 2"
+      },
+      "answer": "b"
+    },
+    "8": {
+      "question": "What is the maximum value of the function f(x) = -x^2 + 3x - 2?",
+      "options": {
+        "a": 4,
+        "b": 5,
+        "c": 6,
+        "d": 7
+      },
+      "answer": "b"
+    },
+    "9": {
+      "question": "Evaluate the integral: ∫(3x^2 + 2x + 5)dx",
+      "options": {
+        "a": "x^3 + x^2 + 5x + C",
+        "b": "x^3 + x^2 + 5x^2 + C",
+        "c": "x^3 + x^2 + 5x + 5C",
+        "d": "x^3 + x^2 + 5x + 2C"
+      },
+      "answer": "a"
+    },
+    "10": {
+      "question": "What is the value of 5P2 (5 permutation 2)?",
+      "options": {
+        "a": 10,
+        "b": 15,
+        "c": 20,
+        "d": 25
+      },
+      "answer": "c"
+    },
+    "11": {
+      "question": "What is the Maclaurin series expansion of e^x?",
+      "options": {
+        "a": "1 + x + (x^2 / 2!) + (x^3 / 3!) + ...",
+        "b": "1 + x + (x^2 / 2) + (x^3 / 6) + ...",
+        "c": "1 + x + (x^2 / 2) + (x^3 / 6) + ...",
+        "d": "1 - x + (x^2 / 2) - (x^3 / 6) + ..."
+      },
+      "answer": "a"
+    },
+    "12": {
+      "question": "If a fair coin is flipped 10 times, what is the probability of getting exactly 7 heads?",
+      "options": {
+        "a": 0.117,
+        "b": 0.266,
+        "c": 0.352,
+        "d": 0.500
+      },
+      "answer": "b"
+    },
+    "13": {
+      "question": "What is the limit of (x^2 - 4) / (x - 2) as x approaches 2?",
+      "options": {
+        "a": 4,
+        "b": 2,
+        "c": 0,
+        "d": 7
+      },
+      "answer": "a"
+    },
+    "14": {
+      "question": "Solve the system of equations: 2x + y = 7, 3x - 4y = 6",
+      "options": {
+        "a": "x = 2, y = 3",
+        "b": "x = 1, y = 5",
+        "c": "x = 3, y = 1",
+        "d": "x = 4, y = 6"
+      },
+      "answer": "b"
+    },
+    "15": {
+      "question": "What is the determinant of the matrix: | 3 2 | | 5 4 |",
+      "options": {
+        "a": 2,
+        "b": 6,
+        "c": 8,
+        "d": 10
+      },
+      "answer": "b"
+    },
+    "16": {
+      "question": "If tanθ = √3, what is the value of sin(θ)?",
+      "options": {
+        "a": "1/2",
+        "b": "1/√2",
+        "c": "√3/2",
+        "d": "2/√3"
+      },
+      "answer": "c"
+      },
+      "17": {
+        "question": "the differential equation: dy/dx = 2x - 3",
+        "options": {
+          "a": "y = x^2 - 3x + C",
+          "b": "y = x^2 - 3x^2 + C"
+        },
+        "answer": "a"
+      },
+      "18": {
+        "question": "If the sum of the first n terms of an arithmetic sequence is given by Sn = 3n^2 + 2n, what is the nth term of the sequence?",
+        "options": {
+          "a": "3n + 2",
+          "b": "6n + 2",
+          "c": "3n^2 + 2n",
+          "d": "6n^2 + 2n"
+        },
+        "answer": "a"
+      },
+      "19": {
+        "question": "If a function f(x) is defined as f(x) = x^3 - 4x^2 + 5x - 2, what are the x-values of the local extrema?",
+        "options": {
+          "a": "x = -1, 2",
+          "b": "x = 1, 3",
+          "c": "x = -2, 5",
+          "d": "x = 0, 4"
+        },
+        "answer": "a"
+      },
+      "20": {
+        "question": "What is the value of the series Σ(n^3) from n = 1 to ∞?",
+        "options": {
+          "a": "π^2/6",
+          "b": "π^2/4",
+          "c": "π^4/90",
+          "d": "π^4/36"
+        },
+        "answer": "d"
+      }
+    }
+  }
